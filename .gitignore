@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env
+.venv/
+
+# Editor files
+*.swp
+*~
+.vscode/
+
+# Excel output and profile data
+resultado.xlsx
+Pasta1.xlsx
+perfil_do_chrome/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
